@@ -1,0 +1,2258 @@
+can add a differetn chest type that is more expensive but gives 2 options?
+i know other people messed with the leaderboards, but i never saw any links or malicious names
+i mean if you can find me proof that this happened ill apologize and unban you
+you didnt say that in your initial message, you edited it now....
+so whats the reason?
+if you find an exploit like that and brick the leaderboards, maybe dont leave it up for hours
+i get hundreds of dms every day and as i said i was on vacation
+......
+im pissed okay
+you literally left it up for hours when you could've just dm'd me WHILE I WAS ON VACATION
+really wanna do this but right now theres so many other things people want me to fix lol
+<:VedThumb:1420426915701067879>
+🛌
+im going to bed ill fix it tomorrow
+cant wait
+id rather work on the fucking game than fix this shit but it is what it is lol
+just wanted to check it was showing ty
+okay sick thanks
+hey can anyone check the leaderboards? what does it say?
+he calls it survivorsslop 💀
+he is literally #1 megabonk hater <:omegachad:1395347109158453408>
+oh yeah 100% im just getting started
+super busy with megabonk updates <:omegachad:1395347109158453408>
+<:VedThumb:1420426915701067879>
+thanks bro
+<:omegabanana:1395762388426293400>
+bruh
+thats pretty funny, ill look into how possible it is to flatten an enemy without completely breaking the game
+LOL
+thats kind of a sick idea
+that can be done
+It might be rip, what kinda freeze are we talking?
+dont think so
+yeah it's rough for indie / small studios
+for now it seems they are a dead community, so i think i will ignore them
+yeah
+reddit was telling me my game would never succeed with that name <:omegachad:1395347109158453408>
+so fucking annoying, but it seems that they have stopped spamming my posts now? Im not sure whether to ignore or to announce that im not affiliated, because announcing that would give them some attention
+GDPR making stuff like this hard af, but also it's very important that we have GDPR 🤷‍♂️
+idk i couldnt come up with a name so i just chose the first and dumbest thing that came to mind
+nah no way, but most cheaters are filtered out
+whaaat i love blender
+:)
+also if i store run data i have to link it with Steamids, and now im suddenly dealing with private information and GDPR will fuck me
+Would be sick but that would also require me to store run data and create an entire replay system, which sounds wonky af
+tyruuee
+no lmaoo just cool strats
+it is but he used forbidden tech
+it is
+*but have you heard about triple anvil*
+double anvil is insane
+holy fuck
+HOLY
+DONT
+I think it has more to do with the speedbois triggering something weird but idk, cant seem to reproduce it
+good job
+you are clincally insane
+thats insane
+this bug has been haunting me
+okay, i tried to fix this problem in the new update, i hope it's fixed 💀
+is that even on the new update?
+what version?
+oh right
+what was the bug
+if you wanna call that a nerf (fuck you kevin)
+well the invincibility "bug" with kevin is going
+nothing is being nerfed i think
+hypothetically
+go into the save file directory 
+
+C:\Users\USERNAME\AppData\LocalLow\Ved\Megabonk\Saves\CloudDir
+
+and copy the files from your 69 folder (pirated folder) to your steamid folder
+go in <#1421978066208690196> and get the role
+oh the one happenign at the start of the run?
+what is it
+you just turn into a giant boulder
+idk but its super fun with quantity and size tomes
+okay ty
+yoo can someone try to react to the message in <#1421978066208690196> <:omegachad:1395347109158453408>
+hop on <#1323666051866558565>  if anyone wanna help me test it :)))
+10x yeah
+Was always capped, it just didnt display the cap
+double the chance of normal mobs
+thatd be sooo OP
+nope
+god damn
+proj speed affects it yeah
+did you die in a specific way? did you play bush?
+yeah seems to randomly happen sometimes, cant seem to figure it out
+only urns i think
+aight guys im going back to workign on update ✌️
+uuuh good question
+uuuh not really tbh, but in one of my shorts you can see a ton of them, and also if you scroll up in <#1323666051866558565>  you can find a bunch
+i think hes working towards it
+i dont think anyone has 100% in-game quests, thats probably fucked
+wasnt hat just steam achievements?
+<:kevin:1419298615955947645>
+he does like you
+actually wait yes youre right
+⛔
+guys kevin has a terrible secret....
+but yes, very happy with launch :))
+just been super busy working on updates
+hes been at it for a year straight now
+dont mind him hes the server gooner
+chat was about to kill me before i even nerfed it
+nah didnt get nerfed
+yeah idk why its still going up and not down lol
+uuh once i create some tools to export all localizations and get them all up on some place where people can help me translate
+i thought maybe we would sell 10k copies and thatd be pog
+no LOL
+you got a point
+LOL yeah
+gg
+i havent slept much
+and i refuse to share it
+i have a forbidden build
+robinette is like BIS right now imo
+you heard it here first
+and ogre
+nah the new goat is gonna be robinette
+yeah beacon gives +2 shrines for all future stages, so stacking wrenches with beacon is pretty strong
+his passive is now stronger early game, but falls of when you get to a really high level
+most other things are buffs
+which everyone has been complaining about
+theres literally only one enrf and it's the dice....
+only difference would be if you used dice
+beta and live is literally no difference in balancing when it comes to enemies
+what character are you playing?
+gives back 1 after every phase
+just a patch
+you need to restart steam
+<#1323666051866558565>
+new
+you can change the parrent in game settings if you dont wanna attack random enemies
+10% damage per 1k gold
+9 -> 7
+havent changed desert enemies nope
+you need 45
+yeah but once you do more quests the slots open up
+how many quests do you have?
+you get more when you unlock enough quests
+<:VedThumb:1420426915701067879>
+i cant lmao
+oh my god
+because i am fucking swarmed with feedback and im trying to upload an update here 💀
+yeah
+yeah lol had me worried
+idk i use smart aim because im used to it
+yeah thats fine
+oh lmao
+smart aim target enemies in front of you
+how? 👀
+separate
+uuh some other changes ill post in the full changelog update
+fox got more base luck
+athena also got buffed
+and most characters are much faster
+Yeah a few are changed, like ogre
+we are testing it right now, and if no issues are find ill push this to public
+but you need the beta version for that as well haha, it's not public yet
+and then 45 and 55 for the 4th slots
+25 and 35 quests
+was changed from 12 -> 6 in this new update
+just need 5-6 runs i believe
+you can cheat all you want with leaderboard uploads turned off
+the ridiculously high scores that dissapeared from the leaderbaord?
+rankers?
+yeah might happen in the future
+it also made crit tome and cl4nks passive useless
+yeah but there are other ways to scale with them, and having a single weapon that break the game and is NEEDED for a run is lame
+Dice now only gives crit chance to the dice weapon. previously it gave global crit chance, which was a bug
+it scales itself, but it was a bug that it scaled all other weapons
+late game he gets less to prevent him from becoming way too overpowered in endgame
+💀
+how did that happen??
+wait what
+yup
+ill test it on steam deck ig
+🤏
+:)
+thatd be helpful
+you should be able to get it on linux
+alr if you restart steam and try the public beta now
+nono it's just ui stuff, the chest price shows in HUD next to level
+restart steam
+yeah 👀
+It's just an update to the game you can help me test early
+Your progression is the same and will be fine :)
+your progress?
+what does that mean?
+<:Bananarang:1354153135039578202>
+i will do very bad things to you taeko
+guys check <#1323666051866558565> if you wanna help me test the changes!!!
+dont have a build for that yet hollup
+:))
+ill give you details in like 5min
+guys im uploading a new version right now but i need help testing it
+slowly but surely
+soont here will be nothing left of the leaderbaords
+miguel angell, you can find it on yt
+who let richard cook
+💀
+we can make that happen
+so youre saying scorpionussy needs to be hot?
+but thats a banger idea
+okay now we're getting even more freaky than me
+its literally a scorpion
+WHAT
+LOL
+so something is probably wonky
+might be bugged, it was previously using the stageTimer, when it should've used the runTimer
+if i may say so myself xd
+the white one goes hard af ngl
+i think its disabled now
+yeah it detects your username
+yup
+maybe tomorrow, need to finish up stuff and get it all tested
+so in the next update the boss is driving around in a porsche with 100m hp?
+<:VedThumb:1420426915701067879>
+yeah the update making the boss easier is going well! its really fair now
+everyone else is a poser
+im a day 1 moldy cheese enjoyer and proud of it
+thanks bro
+guys i am happy to announce i will be reinstating googas in this server
+yeah
+this is the true answer
+ill do a grand reset on it all when i have time <:omegachad:1395347109158453408>
+it's helt together by duct tape
+i dont know either
+youre never safe
+hiding among the masses
+🦀
+googas gone
+feedback stuff, bugs, etc
+working on it rn
+tech is to wait for next update for now :D
+he returns them like a good lad after you beat him
+but... you didnt get your weapons back?
+how did you level up during a boss figh?
+i agree tho i like playing ogre as long as you know hjow to bhop its totally fine
+first time ive ever heard that
+gg
+i think is the main overview
+it'll be changed to heal less from the regen phase, make the charge zones bigger, make his attacks deal less damage, blue orbs freeze you for less time, and give you one weapon back for each phase you clear
+uuh gonna change some of that stuff, but for now the best tip is just to play someone with a strong primary weapon and level that up a ton
+for now i just wanna finish this patch
+so ill be rolling out more once i have time
+but steam just allowesd me to upload more than 100 achievements
+yeah theres still like 150 achievements in-game that are not on steam
+wasnt very practical
+it looked cool but
+yeah or at least my implementation
+it was originally but it sucked
+yooo
+holy blue bullets on cl4nk
+*dont screenshot this for the future*
+all thats planned for now is just free updates, dont think ill ever do anything else
+naah we never adding anything like that <:omegachad:1395347109158453408>
+you guys have asked and you shall finally receive
+guys i am happy to announce in our next update i will be adding a battlepass and loot crates you can open for only $9.99 with lots of skins
+it works incrementally yeah
+gonna nerf their damage a bit
+if you get some beefy rings you can definitely go hp tome and get some daamge, but nothing crazy atm
+yeah id love to but got lots of other things to fix first rn
+He has a bug with his wepaon as well
+Hes not meant to be this OP
+Dicehead is gonna be nerfed :))
+And that dlesnt work on linux?
+Uuuuuuh
+Oh you want more than 300
+Just turn off vsync in settings
+Have been all day
+Im working on the next update :)
+no problem
+holy fuck those items
+hoverboard guy, robinette, amog, noelle i think
+hes the goat, so damn fast
+there is also a setting to not upload to lb if you wanna play with cheats
+<:kevin:1419298615955947645>
+true tbh
+*and ive been tired*
+just havent been able to make an update yet, things have been busy
+the kills are legit now, it's just that dicehead is kinda OP and bugged, but he will be nerfed soon
+not it's in NA
+i thought he was from italy
+thanks! and that doesnt matyer, all support is appreciated :)
+<3
+mobility is also important to prioritize
+as far as the final boss, you would need to actually get some movespeed items or shrines + extra jumps
+movespeed will be buffed a little bit across all characters next update, as well as making some of the slower fuckers a little faster
+Yeah i just dont want to learn ECS even though maybe the game would run a lot better with it 🤷‍♂️  I think performance is good enough, dont need to many more enemies than what i have now
+looking at the code it should work just fine, but idk if you can manually count them and prove it's counting wrong then come back to me ill take a second look lol
+ill double check but i think they should count
+ive made a few shitty games in the past but nothing of this scale
+at least ive tried to get rid of most of them i could find
+most raycasting / spherecasting is all just allocated, so there arent many ram / GC issues as far as i know
+I havent had any issues with memory, it's mostly processing power from physics that's the bottleneck
+Nah it's all just default Unity stuff, no ECS
+looool
+<3
+yeah ive just muted the channel, did the trick for me
+yeah i mean theres just so many things to do atm
+i guess
+Not yet, but Luck gives you better upgrades and chests, armor is just straight up flat reduction, but it doesnt scale linearly, and bloodmark are stacks that yuo apply on enemies that scale damage with your level, once you have enough stacks the enemies explode
+so if you see in your stats that you have a 2x crit multiplier, then that means you actually have 4x damage when yuo crit
+the one you see in yuor stats is another multiplier added on top
+the default crit multiplier is 2
+gonna fix in the next update but yeah
+it shouldnt
+we can probably get that done eventually
+thank you sock
+my goat
+tomorrow we start cooking megabonk update fr
+im going to bed gn
+and seeing as we are on overwhelmingly positive rn, thatd be a bad idea
+it's not really recommended to patch your game right after launch, as you reviews will be split into recent and all time
+havent had time yet
+newfrogs wont know that moldy cheese was once the most hated item in megabonk existence
+idk
+uuh there is a total of like 248 i think, theres some hidden stuff ig
+theyre all really good tbh
+stacks like poison but doesnt tick, and then enemy explodes when you have built enough damage
+but yeah lots to do rn <:omegachad:1395347109158453408>
+like map, character, etc
+ill add some filters eventually
+just per player
+my god
+jesus theres 124k leaderboard entries
+always
+gnight
+overheal
+yes, coming next week
+it looks very empty in 5 minutes
+yes but ill bring back flames since people want flames even if they clutter the screen gg
+classic
+yeah
+idk how to make thorns viable
+Quin is cooked
+if he grabs more lifesteal and gold tomes im going to be very angry
+yeah uuh i think you click above the banner where it sayd Megabonk and then you can get it? im not sure
+damn you guys are cooking for me
+youre the maaaannnn
+Thanks goat
+you better hurry
+Haha no i did account for that
+sure yeah
+and also his dice is bugged and gives crit chance to his entire character, not his weapon only
+yeah something around there
+which is fucking insane
+currently he gets like 50% of a charge shrine everytime he levels up which is kinda ridiculous
+thats boring
+dicehead is currently not a challenge AND is completely dominating the leaderbaords
+yes but there should still be a challenge
+i always thought it looked weird but then i tried it and it was so much fun
+the gameplay never did it justice to how fun it is lol
+bought i last year and played a bit
+i think i have 10 hours on it or smth
+letsgo john megabonk
+it's an item in the shop in the main menu
+absolutely, he also has a donation link in description
+no >=)
+well you could also just buy the toggler which does exactly this
+hello
+probabyl a hidden map for the real gamers
+to match the demo gameplay
+ill make an "original" demo map / mode
+yeah
+dm me rq?
+(you can do that if you bunny hop and hit it at an angle)
+thanks for checking it out :)
+idk right now i just wanna fix my game up lmao
+hmm not a bad idea, should look into that
+beast
+so it's a bit less gated behind bhopping
+im gonna boost the movement speed next week
+we do a little trolling
+"Roger that" or like Roger the name?
+wait what lol
+one of my fav but i also like getting destroyed
+Thanks :D
+oh
+can probably just make a toggle in settings
+1 2 and 3 will select stuff in upgrade menu yeah
+Yeah but ti already is like that, Athena has 100% block with Aegis
+she doesnt
+and with some luck as well youd get so many good upgrades
+that sounds insane
+oh my god
+WHY IS HE ON TOP OF THERE
+HAHA
+zoom around and find him
+try playing monke of calcium
+yep wrench isnt very good in tier1
+p2p lmao
+true
+absolute lunatic
+I was watching Lirik play and he called the wrench dogshit
+finally someone who gets the wrench
+and you need a good item to microwave to use it
+theyre a bit rare tho
+microwaves
+balancing for now, need to fix all the issue people are having too
+both
+thanks bro
+i have recovered from launch
+update next week sometime
+definitely will be working on this
+and a weekly one will be on the front page
+im gonna make an all time section of the leaderboard as well i think
+it will only remove existing scores
+it should still count yeah
+but we do NOT speak about taht
+there is another forbidden way of cancelling fall damage
+we can probably get that going at some point
+dude i am a big fan
+oh my god
+guys we are front page
+try changing your localization setting. still nothing?
+Sounds very weird
+this would be game breaking stuff
+gonna need a to see a clip
+can you stop fall damage by hugging walls
+<:kevin:1419298615955947645>
+wait what?
+thank you dudigaming
+no
+yo
+lemme fix
+man whys kevin sop low quality
+<:Kevin:1419297991201656842>
+shes my queen
+ik right
+thats fucking sick
+holy shit you did it
+is my guess
+yeah i think it's a bug where the silver timer keeps running in the menu, then hits the cap at which point it gives you a silver, so you get silver from the first kill
+just pick up a fuckton of chests
+havent tried but i think you can go turbo challenge on tier1, grab a silver tome, and go to town
+your english is great :)
+as megachad i believe
+i got incredibly lucky and got a campire when an enemy pushed me into a chest <:omegachad:1395347109158453408>
+maybe a legendary item that allows you to choose on passive or smth
+a better solution i've thought of is maybe allowing you to obtain other characters passive, but thatd also be very OP
+that would kinda ruin the point of characters tho right? idk
+the goat
+it's for the sniper and shotgun weapons
+*none*
+maybe exclusive 1 and 2
+might be too strong stage 3
+idk how it would play
+I might make a shrine or something, where you can banish your tome, get 50% of the stats from it permanently, and then being able to choose a new tome?
+*and i didnt even mean to do this*
+sounds like the ror2 crabs all over again
+true but also it's kinda funny to have that one quest everyone hates
+didnt mean for it to be so fucked
+havent tried the challenge so i wouldnt know :DDDD
+might be better to become a lot stronger and kill them more easily later game
+sure if you can get enough thorns / lifesteal in that short amount of time
+then that enemy spawns exclusively for 30s, after which the entire pool is used
+picks a new random enemy every minute unless there is a swarm or boss
+not sure of the use case here tho
+i think he wants to take a tome / weapon, get some upgrades, and then banish?
+already in the works :)
+cant you already banish obtained items? or do to you mean weapons or tiomes
+ive seen someone do it with ghosts tho (bob)
+thorns was my first thought too but i never managed to make it work
+rip
+oh okay
+also megachad can use flex to get some kills early which is nice ig
+Athena has build in thorns so maybe thats the play?
+my bad
+yea
+chunkers
+and for example flamewalker, axes, etc
+not for sword, but for a lot of projectiles it does
+it's out of hand <:omegachad:1395347109158453408>
+man i love that theres so many stupid items you can use that i never thought of
+never thought of that
+thats genius
+wtf
+holy shit
+you've done pacifist?
+working on megabonk atm
+got so many dms rn i cant really check 💀
+but they accepted me now :)
+yeah, but you need steam to "accept" you to add more than 100 achievements and they dont tell you how you are accepted
+yeah for sure, i wanna add a lot more stuff :)
+shows red arrow to boss
+minimap
+damn uuh did you check the minimap? was there not a boss arrow there?
+👀
+something im gonna add in next update tho, idk how you have the update early when i havent even made it yet
+thats kinda funny but definitely not intended
+lmao no
+<:Monke:1417923321168662720>
+how do you have aegis and chonkes in the final fight?
+but its kinda shit
+idk the intention of the weapon was that it would attach and then you use the string to kill things between yuo and the attached enemy
+clip of almost blasting the final boss
+ill search it up
+man
+what
+:spoiler:
+test
+unc status achieved
+OH
+lol
+:_spoiler
+uh
+_spoiler
+test
+no, but attack speed works
+I'll put a spoiler tag on it but idk how to do that
+wait was my clip spoiling final stage, maybe should remove that
+oops
+due to robinettes passive
+has 1000x damage multiplier
+beat it for the first time yesterday, but i was also on an INSANE run
+very few
+i've written it down, ill bring back some of the carpte bombing 💀
+💀
+good point
+But once it gets bigger it just covers the entire screen
+True, i can look into at least having it there as long as it's not too big
+So i had to nerf them a bit
+the particle effects were so big you couldnt see anything on the screen 😆
+SHE MEGA ON MY BONK TIL I OOFIE
+Shrine of the missclicker
+Shrine of skill issue
+Shrine of mistakes
+maybe i can add a shrine or smth idk
+oooh is that what yuo mean? like remove it from your inventory completely?
+ill make him give back one weapon for every phase
+yeah but im gonna change it a bit
+bruh
+oh, i mean you can banish things
+2.5% per purchase
+takes you back to 3 tomes
+well you just go to the shop, extra tomes, and refun yuor purchase
+you already can
+max is 99%
+there is no overdodge, the graph is not linear, so you can never hit 100%
+that could be fun
+4 is also a bit much but it works
+5 is just... lame i think
+2-3 is a much better balance imo
+you can just go for a generic ass build that has everything every time
+more tomes = less builds
+if it was up to me (wait it is up to me) there would only me max 3
+nah im not really a fan of many tome slots
+but it'll be a while til the update, like maybe early next week idk, got lots of things to fix
+im gonna change the weapons and tomes requirements to 25 and 35 i think
+3 i thinjk
+D:
+kinda weird
+sure, i just need to buy a mac or something, i apparently cant build my game without a mac lol
+i think ill put them into a secret map or something
+thanks for hanging out and palying the bonk guys
+anyway im gonna work on some feedback and maybe some content idk
+he absolutely is lol
+not a bad idea
+that actually works and isnt copyrighted
+bonkachu?
+Thur LOL
+doesnt exist yet, got any ideas?
+youre a beast
+Hahaha :D
+someone apparently said theyd gift you tho
+my bad bro will nerf
+poor potato
+damn stop roasting the poor man for wanting the game for free
+debatable
+damn not sure why its not showing
+try not to die of sleep deprevation at least
+holy
+<:omegabanana:1395762388426293400>
+we advice against it
+ooho with the thorns, not a bad idea
+search up steam recording, very easy to use
+ive seen a few
+Just go calcium on turbo, take a lot of chests and grab silver and quantity tome or damage tome
+you can farm that pretty hard
+probably silver tome on a Turbo challenge
+yeah he needs a boost
+gonna make all slow characters faster
+not gonna destroy him but its boring if leaderboards is just dicehead
+hes a bit too easy to play rn unfortunately
+LOL
+thas the plan :)
+she mega on my bonk
+??
+🥀
+yeah his passive is also getting a nerf because its insane
+so yuo basically dont need crit tome, just get a dice instead 💀
+instead of giving crit chance to the dice weapon, it gives crit chance to your character (all your weapons and other hits)
+it's a bit broken rn due to a bug
+you can just hover over the enemies
+if you unlock birdo, try him with flamewalker and some extra jumps
+such a fun build
+so can probably cheese some quests
+yeah all qeusts are always active
+need to fix a ton of shit
+idk maybe sunday / monday / tuesday idkdikd
+im gonna lower the requirement in next update
+50 and 60 quests
+So we're getting all 250 achievements and other shit
+:DDD
+WE JUST DID
+and you should be golden
+just go damage tome and like quantity tome, and add another nice weapon
+you need to do it as CL4nk
+you just leave
+or Contact
+bro you just quit at that point
+🗣️ 🗣️ im diamond 4 in megabonk, 2100 elo
+RANKED MEGABONK
+queue up with your homie and survive the longest
+versus mode i think would be fun af
+nah we start working on Gigabonk now
+<:omegachad:1395347109158453408>
+massive impostor syndrome ig
+and very grateful for the response
+like death
+Thoughts on making weapons and tomes available at like 25 and 35 quests respectively?
+yeah the curses cant stack on a single target
+have no idea how it is against final boss tbh
+if youre lucky enough for it to curse a boss taht is
+its really strong on bosses from what ive found
+jk <3
+:D
+i like it :)
+id say its pretty good
+<:omegachad:1395347109158453408>
+only athena can completely avoid damage with the aegis
+go into unlocks and toggle on or off bought items
+you take a tiny amount of damage
+yeah they dont make you invulnerable anymore
+thanks
+so much mobility
+calcium also kinda easy mode now imo
+well it would be kinda lame if you got a rare upgrade but it was just +1 projectile just like common
+Aegis also has a "hidden" buff that makes thorns damage stack on top of it
+yeah sure, if you take damage you retaliate with your thorns damage
+You can hover stats when you get an upgrade, but it's not currently workign in the pause menu
+yeah jonny
+oh right, i havent added that yet, but i wanna do it tho
+damage is always nice, maybe cooldown as well or just quantity
+press pause, look right
+hello dsf
+OR messing with graphics settings, im not quite sure what could be causing it
+hmm try turning off vsync and setting max fps to like 120 or something
+yeah
+it's 2.5%
+the silver?
+Okay thanks for the info!
+It really is
+the 2nd one can still trigger, hence the name overpowered lamp :D
+yeah for things like moldy cheese, gloves, or other on hit effect items
+steam or game achievement?
+you unlocked him with only 3 challenges?
+it's mostly il2cpp rn to protect people from yoinking my game and putting it on mobile stores and stuff, though that will happen eventually anyway i guess
+what do games usually do? like risk of rain 2? is that mono?
+dm me a link :)
+appreciate that
+thank you beast!!
+uuuh when i get to it, im still recovering <:omegachad:1395347109158453408>
+yeah it's fixed
+gonna add it yeah
+noo thank you for playing man!!
+it's 2.5% increase per purchase i believe
+im gonna put it in the shop eventually, i just forgot
+it shows up there
+when you spawn in, pause the game, and check your shrine log
+how old is your pc?
+im working on a fix, it's due to old computers not being able to handle the shaders
+are they pink by chance?
+💀
+kevin is your frined
+i was so close
+I ALMOST one shot the boss
+:D
+but i got 2nd place :DDD
+little bug
+can confirm robinette is S tier
+so close to wr
+LOL
+had a crazy run
+LETSGOO
+already on the list! not sure ill be able to add crazy skate mechanics
+i think im cooking
+keep talking and see what happens
+and i think he already made a video but its locked
+yeah sent him a key, he said he might play :)
+check the General tab in quests
+you need to complete more quests
+basically constantly negative to anything anyone said
+nah he was a lot worse
+i wonder what googas would say if he was here now 🥀
+he's basically cutting time in half somehow
+usually takes 40min
+thats actually absurd
+this guy megas his bonk
+to the final boss on t3 and defeating him
+that is 24 minutes
+im pissed
+wtf?
+the fuck
+how
+<@305847738493304832> bro?
+bro what
+i saw nothing
+what did mosin ask lol
+tier 3 is significantly harder
+WHY ARE WE SHOUTING
+Miguel Angell, he cooked with it fr
+appreciate it though
+no but if you wanna support more you can gift copies of the game to friends or people who cant afford it :))
+But I *think* a better solution is shooting 50% of the projectiles at the closest enemy? I will have to test this a bit
+shooting all your proecjtiels in one direction and then getting smacked from behind
+this is to prevent getting fucked in swarms
+then it will target random ones or use smart targeting
+basically your first projectile will always hit the closest enemy
+you're right, i does work in a bit of a weird way but the intenton was good lol
+sick skin
+thank you king! appreciate that!!
+he was the man to destroy the demo
+i will execute him
+son of a bitch is gonna tank my sales
+❤️
+byebye dying light 👿
+holy shit
+thanks monke :D
+:DDDDDDD
+we're probably gonna get it tho
+yeah they auto pop, and the requirements arent described so nobody knows
+omg he's literally HIM
+wait what currency is that?
+it's zesty megachad
+I have the perfect megabonk skin for you my friend
+wdym its right there in the menu and settings
+WHAT john megabonk??
+we finalyl did it
+my goat mustaf
+thank you guys <3
+pretty cool frog huh?
+a frog
+like my server tag
+we get custom server link and some other cool stuff
+dont talk shit about my boi kempy
+👑
+sorry mustve missed it, beena  bit busy hehe THANK YOU KING
+<@189952042633134080> THANKS GOAT
+im megaing my bonk so hard rn
+why am i here chatting
+jesus christ
+i literally havent even uploaded the final build yet
+im just really fast
+just got wr speedrun sit
+stfu
+GOD
+OH FOD
+I HAVE NO TIEM
+5 HOURS?? FUKKKK
+yeah, i think 3 is enough tbh
+well you have to unlock it first
+yeah 4 weps and 4 tomes
+reminds me of old games
+like climbing over the map border is fun af
+i love bugs that dont ruin the game
+surely no bugs <:Clueless:937817066491248682>
+love me some ror2
+thank you king
+maybe 18
+ish
+it's like 16h i think
+the damn night shifts got you fucked up
+you might be sleeping then?
+2pm
+uuh what time zone are you?
+<#1323666051866558565>  for time
+friendship with balance is over now boss curse is my new best friend
+Balance shrines are DEAD
+it'll last for 2 weeks
+daaamn
+🎵  she mega on my bonk til i bust
+bonk
+mega
+no one even knows what the best build is rn
+damage against elite enemies, the guys with crowns above their heads
+yeah 121k!
+get it
+so it's a "short" one
+its not that sick, im on 2 hours of sleep and not enough time :DDDD
+THANK YOU
+<@1270017428994261053> <@762670142022352906> thanks for the boosts goats 👑
+yeah
+8pm cest
+sorry im baiting spoilers
+oh wait you might be right
+if u have 4 weapons and collect katana and shotgun and banana and luck tome will you have 7 weapons and 5 tomes?
+i think the max is like 10k
+...
+$8.50 on launch
+got way too many bugs to fix
+got enough testers :)))
+hehe
+doesnt give you anything tho
+just alows the server to have a custome link and some other stuff
+or broette
+thanks bro
+YO
+thanks clippy! stay epic
+$10, 8.50 on launch
+we're cooked
+pretty sure they already did yeah
+R$32.99, and then theres a 15% discount on launch
+im sure some people will appreciate that
+i just wanna keep it up for nostalgia tbh
+prolly not
+demo is kinda bricked for controller :/ I've fixed it in the new version, but havent had time to fix the demo yet.
+oficially 95%
+you heard it here first
+there you go
+are we 95%
+nah like how finished is megabonk
+how finished would you say it is taco?
+music is mostly done, and i dont have to do much in that department anyway
+trailer tomorrow probably, press kit is easy
+im finishing menu now
+id say 95% is fair yeah
+yeeah cant believe we got it right before launch as well, so lucky :D
+114k 🤯
+thank you!!
+it will be $10 and 8.50 on launch
+thanks!"
+they do i was just checking the values cuz they might sometimes be weird
+okay thanks for the help!
+yeah they should be cheaper due to regional pricing so it's about 50% off
+it's $10 in US, do you think 429 russian ruble is a fair price?
+i was just looking at the pricing
+yeah!
+idk rpobabyl not, at least for now im focusing on the pc version
+THANKS :)
+i didnt make that
+yeah but the music is outsourced tho
+lmfao
+you kinda cooked with rank 842
+lool niceee
+and glad to hear it, i hope it runs well on your potato
+your english is very good!
+hello biggyjon
+letsgoo gl bro
+thanks king
+blame tacoDragon, he made it
+lmaooo
+Yeah
+havent contacted any press or content creator, but i was lucky to have some big creators (like dex) ferature my game!
+That in combination with the demo probably did the heavy lifting
+Posted on reddit, tiktok and youtube, and had some videos blow up
+gigabonk is coming out next year same time obviously
+I was in the next fest in Match i believe it was, and that really boosted my wishlists to i think around 50k 🤯
+but im super blessed to have like 100k+ wishlists, thats absolutely insane, and i feel bad saying it's "small" in my videos lol, but it helps build a lot of hype and drive wishlists
+i very much realize, it's more just a marketing tactic i use to make me seem like the tiny underdog vs these giant AAA games
+<@601140715657101322> THANKS :D
+goat
+thats fucking insane
+wtf bro is hiking in his wildest DRIP
+yessir thank you
+cant say i have
+cookin bugs
+ill get to it im jsut a bit busy atm
+yeah will set it up closer to launch
+<@182110722384199680> thank youuu
+or maybe check <#1344712310589100074> first
+shoot
+there will be regional pricing
+hey everyone :))
+damn the short hit like crazy
+gg
+solid bench
+damn bro
+maybe if i really grind
+idk if ill ever be able to 100% the game
+you've got a lot to check off the list then
+thank you :)
+lmaoo
+but no microtransactions xD
+for in-game money
+you can buy a ton of stuff
+no pay to win
+no haha
+solomio
+yep solo dolo
+thank you :D
+or around 8.50 with launch discount i think
+nope sorry, $10
+🐒
+just jump on a wall, do a little wallrun and jump again
+so you can basically almot wallhop
+he can wallrun
+it's just me here hahah but ive added monke
+*which is why the final swarm can be lag city*
+but it's not a problem unless the enemies move fast
+or rather the physics
+yeah that is the main bottleneck
+ive done a lot to optimize it though so hopefully it would work
+yeah, would be cool, performance should be fine i think but id have to test
+maybe? i think porting it can be a bit time consuming though, i also dont know anythig about it
+true
+and id prioritize multiplayer first tbh
+and i mean im all for it, i just have a feeling thats quite a lot of work
+yeah i think the problem is i have to create an API for modders to use if my game is IL2CPP
+even if my game is IL2CPP?
+since thats just models and textures
+if anything, it shouldn't be too hard to add basic modding like custom chaarcters
+agreed
+idk shit about modding
+maybe? also something i will look into after launch
+it's more adjusted in the full game tho! keeps the intensity all the wat
+yeah well i think it's fine but when you get to 6-9 minutes its honestly too easy and barely any enemies spawn
+yep, enemies would need a lot more hp
+im a sucker for multiplayer games tho so im all for it
+ill have to figure out how hard it is to add tho, might be chill or might be completely fucked
+nah but i really wanna add it, so ill consider it after launch
+its like 700k views in under 24h thats crazzyyyyy
+damn tiktok has been doing work
+on tiktok?
+siiick thank you!
+sup
+👋 <:Aga:1345906998369189890>
+thats insane
+final stretch holy shit
+what is a dingoes
+even though i found it funny as fuck
+id di actually fix that
+oh
+thanks... :D
+glad to hear it! thanks for feedback
+should work totally fine in full game tho, as i am using a new and improved system
+sorry about that, the demo is using an old input system and it sucks
+never
+wtf is vertix fishbowl
+hes like my evil twin or something?
+im not sure tbh
+during the demo they were crazy active
+i wonder if the vcs are gonna pop
+thanks g :D glad you like it
+increasing with like 500-1000 every hour, we're getting 100k today for sure!!
+<:omegachad:1395347109158453408>
+one of the best items in the game <:Omegaskull:1400118565205577850>
+especialyl if you get an Anvil my god
+*now it's vastly overpowered* :D
+and the axe ig does it in the demo
+for example the bow has been changed in the full game to shoot all its projectiles at the same time
+Nah, but some weapons do
+so you might be good without wifi
+300mb i think
+the game barely uses wifi tho, so yuo should be fine, and the game is only like
+just dm me, ill remember
+and you're an OG
+i can probably get you a key, i requested some keys from steam to giveaway to my bois who couldnt get it for different reasons
+cant use steam in your country?
+wdym?
+tends to happen when youre chronically online, all my friends and people my age generally speak very well english i feel like
+i respect it
+thats not king status thats just beggar status
+👑 you dropped this
+okay im actually gonna go focus so we can playtest lmao
+🐐
+we're both unc
+im a boomer too bro dw
+back off
+stay away old man
+dont go there
+my childhood
+<@187342982133972992> firered and leafgreen
+the 100k dream BABY
+apparently it's 96k now, the new video is doing WORK
+then we'll see what happens after that 🤷‍♂️
+would be sick af but currently im only focused on finishing and launching the pc version
+thanks g glad you like it!
+so that might help
+yeah i literally just today claimed the /megabonk discord link
+oh interesting
+<:OmegaOmegachad:1400119344138031227>
+oh okay lol
+im not really sure how i can get it to show there tbh, prolly need to get it indexed somehow
+also did you try to search up the discord on google and couldnt find it?
+yeeah thats fixed in the full game
+might make a dedicated channel for it
+i dont think you can use it tho befcause it makes these huge embedds
+probably a bit if your computer is lower end, i havent noticed anything tho
+god damn its so nice lol
+you can get an instant replay
+you literally see it when you press shift+tab to open the game overlay
+dwjust search a youtube tutorial, its super fast and easy
+id highly recommend it
+you can choose, from my experience its great quality
+or characters, challenges or maps
+also integrated with megabonk so you can see timelines for swarms, deaths, etc
+auto records last hour, small file size, integrated in steam
+its really fucking nice
+just use steam game recording
+but hey thats what we got playtesting for ig, surely later today
+idk maybe im overthinking it
+but then itsnt the real problem that the tomes are unbalanced, if knockback is good on aura but you still wont pick it?
+yeeh true! thatd be kinda sick for an item actually
+cuz with 6 tomes you will literally always just go luck, difficulty, damage, cooldown, crit
+Yeah i see where youre coming from, i just feel like if you can have all those tomes it ruins the concepts of builds
+i *think* 5 might be too many
+instead of being able to just get every tome yk
+im not even sure if 5 tomes is too OP, im kind of a fan of limiting it a litle bit so you have to go for a specific build
+oh yeah thats true as well
+yeah i agree
+i always thought projectile speed tome was garbage but there is a new weapon where it's really good
+definitely something i wanna add down the line tho
+hmm no but i was gonna add something like that i just never did <:omegachad:1395347109158453408>
+hes cheating
+goated pfp but mega sus actor
+was about to say
+we're all oofie fans in here
+we are locked in
+not capping this time
+maybe
+but yeah its real
+18 september
+hey!
+uh oh
+the 100k dream is real
+dude the new short cooked, we are at 95k wishlists...
+yeah ai is getting pretty convincing these days yk
+these ai generated posts are getting annoying fr
+another fake screenshot
+<:Aga:1345906998369189890>
+very good
+debatable
+sounds familiar, didnt he play it a few days ago?
+his name?
+but the game isnt quite done yet so cant really do it yet <:omegachad:1395347109158453408>
+i think so
+yeah
+3
+yeah sorry the door is closed
+*to hell*
+welcome people 👋
+okay i am weak too
+?mute <@300487110438289409> 1s
+you guys just dont have the same power as me
+noo whats that
+uh oh
+*probably*
+tomorrow....
+i have no more time to add new content tbh <:omegachad:1395347109158453408>
+i feel like that's the reaction of all the youtubers who play it loool
+but now it feels balanced again
+was supper worried like 1-2 weeks ago because it wasnt very fun to play, id only added content and not tested enough
+just finished another test session and man it's actually coming together
+hes cooking up some BANGERS
+Miguel Angell, a dude i found on fiverr
+gonna send him a key and test my luck ig
+he said he will play on launch, i hope he remembers :DDD
+the perfect clickbait
+sure dms are always open
+or along the way
+it's not really hard to fix up, so doing that last
+uuh it's in progress, small things here and there (main menu)
+it's all polishing rn
+<:omegachad:1395347109158453408>  naah we'll be fine i think
+but generally speaking, 2 weeks out from launch seems to be the point of no return
+well i heard from reddit so its not the most credible source <:omegachad:1395347109158453408>
+i've heard you *technically* can if you message support and have a really good reason, but they usually wont let you
+i had to limit the max amount you can stack because it was so strong and made the game lag <:omegachad:1395347109158453408>
+theres a reason they call it overpowered
+etc
+spicy meatball can explode twice
+so cheese can poison twice
+anything with on hit effects gets an extra roll to proc their on hit effects
+aready in, it shows up after 2 hours in the final swarm
+how do you know?
+<:chadStare:1409953625547210833>
+technically im working
+Im playtesting
+just had a god run and got fucked by the boss im fuming
+my goat <3
+she megaing on my bonk until i bust
+they cant handle the bonk
+damn this must be it
+ooof
+we're so cooked
+otherwise i would :D
+i cant move it anymore, it's locked id D:
+guys im delaying megabonk until next year
+just a bit annoying that they moved their date <:omegabanana:1395762388426293400>
+i dont know anything about it tbh, so im not sure
+Nah hopefully not
+first silksong cooks me and now this
+dying light the beast literally just moved their release date to sep 18 instead of the original sep 19 💀
+bro i swear
+And im feeling triggerhappy
+Ragebaiting someone and posted art with a slur in it
+the final boss of gooning
+thats pretty hype
+honestly i respect it
+jorkin with one hand and fighting with the other
+naaaah 💀
+🌽 corn?
+wtf is the korn incident
+lmfao
+$90 here
+borderlands is like
+also speaking of prices
+that is if you are finished with borderlands 4
+dont worry you have a whole day to play megabonk before dying light the beast releases and overshadows me
+unacceptable
+im so cooked
+SHUT UP
+yeah ill have to review every price with my financial advisor (chatgpt)
+yeh ig people change their region for better prices
+🙏
+you saved me bro
+lmaoooo thats crazy
+i think their autopricing is fucked
+in argentina or smth its like $0.1
+well glad you brought this up, i was about to get cooked by steam
+Okay, steam auto pricing apparently set it to $1 LOL so im gonna have to adjust it a bit manually
+so thats helpful
+yeah im wondering more what people would find acceptable yk
+Lmao appreciate that but i dont wanna make it too expensive for your region either way
+and what's too expensive?
+so what do you think a fair price is for a game like this?
+<@804646685967384587> aight thanks, looks like the turkish prices range from like 40%-80% off US prices
+how much is peak?
+repo i think
+uuh
+damn if silksong is using auto prices like me then megabonk will be like 3.50
+okay well i am using steam auto regional prices so it should be adjusted
+lol dudi calling him out 💀
+whats your currency?
+regional prices
+🤓 ☝️  it's actually 120
+but dont worry, surreeely we will playtest soon (i swear)
+which means technically i can just update the game and replace it with a virus, but maybe they have checks in place for that (they probably do)
+they only need to verify you once
+oh nah dont worry they dont check updates
+thanks roger, even tuned down the color saturation all for you
+i sure hope no sicko with discord light mode comes along and takes a picture
+also ignore thats it's in thai <:omegachad:1395347109158453408>
+Okay probably going with this, feels a lot smoother
+bruh
+*ill add an option to toggle probably but i still need to know which one to default to*
+Chat which one do we prefer?
+🇵🇱
+and tons of tiny polish everywhere
+testing, a lot of testing 💀
+tiny
+lol
+sounds cool yeah
+you'll have to fight the calcium enjoyers, they're already willing to die on that hill
+thank youu! im excited too but kinda scared, i hope people like it lol
+<:Cl4nk:1353679518459498537>
+based clanker
+<@300487110438289409> THANKSSS
+💀
+Then once you have some experience it's a bit easier to start working on a bigger project you know
+Hmm probably a bit hard, id suggest starting with some smaller projects first to get into making games first
+yeah let's go we just need 100m more wishlists to get there
+<@1270017428994261053> yooo thanks
+No it's just perell dont worry about ut
+Oh yeah the bot was murdered
+Oh ok yeah i think i see it
+What where?
+Roguelite is a roguelike but with permanent upgrades ig
+Also roguelite cardbuilder open world mmo
+thanks goat
+hes pretty cracked
+damn thats weird
+<:omegabanana:1395762388426293400>
+thats enough for me to go discord
+yeah its just a few seconds
+now im just chatting in discord every time it compiles 💀
+it's getting longer and longer the bigger the project
+man tell me about it
+Unity is pretty easy, but so is Godot so idk
+Lmao
+Damn its in 1 week im cooked
+Nope sorry, you'll have to wait until next week :o
+/delete all
+how do i unsee something
+delete this
+<:chadStare:1409953625547210833>
+havent figured out all the legal stuff yet but thats the plan
+and then ill flip a switch and it blows up everyones computers
+im gonna make the torren for my own game available and get everyone to download it
+youd have to torrent to get it tho
+a hater pack would be kinda cool
+literally never said that
+whats stopping someone from pausing the game and just spamming text files in there
+yeppp
+thats actually a fucking terrible idea LOL
+thats actually a fucking sick idea LOL
+No but Richard bought Hollow Knight, he is trying to be a trendy gamer you see
+*but soon it will be tho* :o
+it's not public
+such a based playstyle
+no shot
+but nt
+istg it's like day 11 max
+we'll do some closed testing soon yeah, just gotta fix some stuff
+spitting fax
+not false 💀  was tryna get playtesting started last week but theres so many tiny things i need to finish
+<@238602390968860672> thanks goat and uh idk about livestream maybe ill try to get one of those steam streams up
+it's still like 69 i think, just doing a fuckton of balancing, music, mainmneu, all sorts of tiny things
+thank you :D
+official lore letsgo
+thats cannon now
+calcium only learned to kickflip
+unfortuantely not :(
+i cant lie?
+icl?
+man ya'll got new words every day
+*and thats a lot of work*
+not false but that would require an entire remodel and not just a skin
+<:omegachad:1395347109158453408>
+how do you know i havent already added a hidden googas png
+no
+too busy chatting in megabonk discord
+well it'll have to be after megabonk launch, aint got time to check it out rn
+bet
+free on steam?
+glad you like it bro, and ill check it out
+pimpest wheelchair
+but i bet it exists
+probably mad expensive to get a wheelchair with a dope ass suspension system
+ah okey letsgo
+are you in US by chance?
+that sucks, didnt know wheelchairs were so expensive
+yeah :/
+or i didnt consider you could reset for them ig
+just didnt think it was gonna be a problem when i first added it
+balance shrines are way too unbalanced, i dont want people who go for highscores to depends on good resets 💀
+yes they will be removed lmao
+gn
+i gotchu
+oh okay thats a whole other story then
+isnt it like $20
+*dies of allergy*
+bruh <:Omegaskull:1400118565205577850>
+this is high treason
+im taking away your delete perms
+what the fuck
+Damn lmao and idk, havent got it checked out, i just know i get fucked around cats
+maybe some shrimp would do
+whats your currency?
+should be region adjusted prices but idk
+im allergic to cats tho
+🗣️ OKAY MY FRIEND SPECIAL DEAL FOR YOU
+crazy to assume i dont miss a single message
+uh what was it?
+its only $10 but we can make a special deal for you at $100, no problem <:Aga:1345906998369189890>
+uuuh im not sure what the discount is yet, steam recommends like 15%
+so its a lot easier
+i think it is to complete map 1 tier 1
+great question
+uuh
+it wouldnt make sense
+thats why progress doesnt carry over, a lot of things are different
+cl4nk achievement is different in full game
+🗿
+Nope sorry
+*it does not*
+85k :o
+on aegis is adds your thorns damage on the aegis damage
+uuh i cant remember if it works on shield but im pretty sure
+glad to hear it toby
+cook or get cooked
+damn the pressure is on ig
+not at launch, i really wanna add it tho but we'll see, ill have to look into it after
+thank you! <3
+only fam and friends atm anyway
+no sorry :)
+they dont show up anymore, so you can get more of the items you want
+i love welcome messages LETSGO
+<:chadStare:1409953625547210833>
+well you know one now
+did you forget the 4th commandment
+yet lol
+im gonna clog something else if you dont stop complaining
+why do people hate welcome messages so much?
+I will never 🦹
+👋
+fuck is it only 12 days
+uuh maybe eventually? but first ill focus on pc version :)
+yeah you can find it on the steam page, though im not sending out review keys yet
+got a lot to do atm, so it's not a priority :s
+maybe, ill try to get it set up a bit after launch
+i have so much more i wanna add still
+there will be updates yep yep
+thats messed up richard
+🤷‍♂️
+yeah i agree with perell here to be honest
+Lmao nice
+get in queue pal
+i think it was a good decision to delay the bonk ngl
+Wait lol it actually crasehd
+LOL
+xD
+watch out zed!!
+but a gay skin for everyone would be nice tho
+they dont all have the same skins
+Nah they also have 5, the rainbow skins are part of their 5 skins
+but adding a rainbow skin to every character would be 20 more skins yeah 💀
+these are just skins i already had in the game
+oooh nah i mean adding a "super" skin or whatever you guys called it to every character
+of course it's added
+it's literally the goat calcium skin it's cannon
+wdym not being added???
+i probably havent shown all
+Ill increase you pay with 5 bananarangs a month <:Bananarang:1354153135039578202>
+Gj vbrvababxy
+Bur we need more mod abuse around here
+Idk what i just came back to
+Sad fun fact: had to change the name Rollerblades because that is a copyrighted thing
+even me
+True, wont even have to do taxes cuz we're all pirating it
+Cant be bothered reading all the text i just see numbers
+Naah when i check on wikipedia it says a lot of countries are 50% or maybe im cooked
+Don't most countries take 50% taxes or is that just a Norway thing?
+I think Steam takes 30% right and then half of whats left goes to taxes oouf
+Damn why you gotta do me like that
+It really is
+Yessir
+chat is cooked again
+<:OmegaAga:1400120744834502768>
+hes googas fr
+beefy ring is scaling off your base damage by adding a percentage. So if you deal 100 damage, and have 100% damage from beefy rings, that's 200 damage. The Damage tome does multiplicative damage, so if you have 2x from damage tome, that 200 damage turns into 400
+max is like 99%
+yeah
+Noooooo
+maybe will have to look into it after launch i think
+megaeing my bonk so hard
+oh shit it's releasing in 2 days right? dammnnnn
+holy shit hey john megabonk
+yeah runs totally fine, only the leaderoards dont work, but yeah thats to be expected
+🗿
+or i think so lemme check
+yes works fine on deck offline
+no im the vedinad guy
+thanks :))
+your friend is the goat
+i take back everything i said tiktok > youtube
+so the tiktok views arent worth as many wishlists as a youtube view
+most of them are mobile gamers
+yeah but tiktok isnt as good
+soon we're passing silksong for sure
+its definitely very good for wishlists
+the newest one popped off tho
+yeah insaneee
+79k! we're fucking cooking
+lets not talk about the naked guy in youtube short #14
+there is another new one tho
+nah hes right it's the new combat shrine lol
+yeah edited my file, gotta get that optimized items pool hehe
+337k, so im in like 12th place or smth
+uuh lemme check
+im megaing my bonk as we speak tbh
+double the mega double the bonk
+dont worry <:Aga:1345906998369189890>
+it's just another channel i made to experiment with some stuff
+<@367968582027706369> thanks goat
+Hello wackass the first
+it's 100x easier to implement than co-op (i wanna do co-op too), and sounds like a lot of fun tbh
+something like that
+and the one that dies first loses
+then possibly you can do certain things to make it harder for the other player, like tetris versus lol
+basically you load up with a friend on the same seed, and then you play on your own worlds with your own enemies, but you can see eachother as ghosts
+we've talked a bit about a versus mode here and i think it would be a banger
+hes natty
+Mustaf you always cook with your ideas
+yeah it's kinda messed up atm...
+oh fuck might fit better
+true thats a valid point
+Overcrit, basocally crits on your crits
+Damn sorry about that, the demo is using an old input system so its pretty buggy, but the full version has a new one so at least there it shouldnt be a problem
+<@794283460046618680> do you have any controllers plugged in? That can cause it
+🗿
+yeah
+just a random thought
+and then you could put vampires in the name and not have any vampires in the game or something haha
+wouldve probably been really popular
+if only someone had made a game like that already
+👋 <:Aga:1345906998369189890>
+but im thinking of creating a "hidden" skate map for it
+theres not even rails in the main game because i never figured out where / how to place them
+99k before launch would be a sick goal tho
+uh oh
+great idea perell as always
+100k before launch would be a sick goal tho
+yoo?? thatd be so random 🤣
+according to steamcharts, so thats pretty cool
+naah but in a week we've gone from 65k to 75k, we're now in top 600 i think
+🗿
+but i wanna mostly finish the game first
+probably will do some testing with some of the OGs in the community tho
+nah only friends and family have access atm
+probably that tbh
+or maybe i just have a severe case of skill issue
+hand him the final boss he wont be calling that easy
+😠
+so based
+yeeh thats the philosophy of the game right now, just gotta make sure not to make it too hard lol
+might give it some more attempts late, gotta fix some bugs n stuff
+its pretty fun but god damn hard
+i was super low on time so it would have been extremely stressful so right now im hoenstly kinda glad it released hehe
+cant really argue with that
+you make a good point
+but we have sir chadwell too now
+based sir oofie enjoyer
+pretty good, just been testing them out and fixing bugs and balancing mostly
+In Subtance Painter with the Pixel8r plugin
+eat some strawberry cheesecake
+damn have a nice day
+so weird lol
+roblox just straight up banning the guy taking down preds
+oh yeah i saw that stuff
+☠️
+googas is screwed
+nice, then i will have monopoly on keys
+i think so at least
+youd have to get them from the dev?
+you cant buy steam keys from steam anymore right?
+<:Omegaskull:1400118565205577850>
+💀
+but apparently it's bad doing too much lol
+ill probably do 15% or more
+i cant join the sale because my game is releasing too close to the sale :(
+isnt there a sale in about a month
+oof
+how much is it?
+oh didnt know they changed it damn
+family share is goated
+mgiht have to give it a try to see what the hype is all about
+i have it in my library but never tried it
+fair enough, not for everyone ig
+uuh idk i hope they work
+have you played hollow knight googas
+but fuckit we ball
+No
+Player
+Never heard of that before, so im not quite sure. Heres what you can do tho:
+1. Start the game, get to mid run and make sure it crashes
+2. **Don't restart the game**
+3. Go to your Appdata and find the logfile:
+```C:\Users\YourUserNameHere\AppData\LocalLow\Vedinad\Megabonk Demo```
+Replace YourUserNameHere with your windows username.
+4. Find the Player.log file, and send it to me in DMs
+Yeeh its really wack..
+?warn <@343692213445984259> please no w word in general
+nice one perell
+thats a clever comeback
+i preffffer fleetwood min haha
+fleetwood mac is the goat
+cookin short
+nah i think youre on day like 5 now max
+hopefully i can finish everything in time lol
+thank yoou, gonna be fun to release
+and me 😎
+nah not atm, only people that playtest are friends and family
+thanks my guy appreciate that!
+🫡
+The goat
+no problem
+<@260242726061080576>
+D:
+🛌
+im going to sleep cya
+roger! >=(
+sure :)
+bro got that corporate rizz
+🤨
+its just me here, no team <:chadStare:1409953625547210833>
+sup
+im gonna keep megabonking my schlong and there is NOTHING you can do to stop me
+yeah yuo wish
+and they say art is dead
+damn thats actually a banger
+lets hear it
+maybe, will have to see how it impacts gameplay
+<:Omegaskull:1400118565205577850>
+ty
+is that a streamer?
+where wiki
+<:chadStare:1409953625547210833>
+I do like it but i already have an item that does the exact same thing 🤔
+does it just ban enemeis from existence?
+shady guys are not
+moais are affected by luck
+thats messed up xd
+holy shit it's john megabonk
+There's 85 achievements just for skins lmao
+<:chadStare:1409953625547210833>
+cant wait for megabonk 2 honestly
+Bro if I did actual 5 different models per character it would take so long hooolyyy
+<:omegachad:1395347109158453408>
+if only... well we can keep on dreaming
+rainbow calcium is the goat tho it's not even close
+yeah what he said
+uuh hollup
+oh
+yeah
+something from one piece?
+i dont even know what this omega thing is
+but thats another extra skin for every character = another extra achievement 💀
+<:Omegaskull:1400118565205577850>
+wait it kinda goes hard
+👋
+ok imma go finish these damn skins
+but here you can go for 30min and it gets a bit boring nuking everyhing <:omegabanana:1395762388426293400>
+its not quite like that in the demo since thats only 10min
+but here if you get too strong it gets really boring
+yeahhh
+i personally prefer it not getting easier
+🤷‍♂️
+some people like that some people dont
+i dont think the game should become easier as you play, but rather be more skill based
+i considered it but i dont think i want that
+and potentially in the future allowing you to change starter weapon at a specific level
+but it doesnt actually do anything other than showing how much youve played them
+yeah
+rank is like the overall level on that specific character, based on how much youve played them
+it's just "character level" but it would be confusing if the achievements said "level" and youd think that was your in-game level
+yeah i mean for example the gold skins will all be the same, get to rank 99 or something with a character
+<@728209924978507818> ik it's not what u suggested but i kinda like the fade lmao
+damn ur cookin
+im kinda crashing out but i will finish the achievements
+yeah but tis the 100 achievements that are 💀
+it means im cooked
+it means i need to create 20 characters * 5 skins which must all be achievements
+no it means we are only getting started
+yo?
+like a fade?
+vlad
+i kinda like the black one i think, a bit more lowkey than mustard bottle as richard put it
+oh
+...
+which one
+whats that
+im not gonna sleep tonight
+i cant believe the disrespect
+?mute <@728209924978507818> 2min "think about your actions"
+next time WILL  be a 4 week ban
+?warn <@728209924978507818> no j word in general
+guys please stop talking about j*bs in general
+<:chadStare:1409953625547210833>
+gyro sounding like some villain trying to bring over the main character to the dark side
+*what bazziliononjons of dollars*
+<:OmegaOmegachad:1400119344138031227>
+LOL
+<:chadStare:1409953625547210833>
+stabbed em
+I saw it with my own eyes
+He really did
+<:chadStare:1409953625547210833>
+thanks richard
+so the meme is just calling a robot clanker?
+oh so people are using it that way? thats pretty cringe
+is "clanker" allowed?
+richard youre the community manager
+uuh im not fluent in zoomer so im not sure
+yah you have a pretty unique name
+thank you roger
+<:chadStare:1409953625547210833>
+ship it
+peak
+a gold skin for megachad, but i cant get it right
+uuh kinda? i just gave some people perms to mute and warned some of the edgy redditors
+i tried this but idk
+yeah i hate the golden one idk how to make it look good lol
+oh the golden one
+it's grandpachad
+holy shit true
+i think there's a chance even RichardGaming might get on it as well
+gonna be sending out hella keys
+damn im taking so many notes here
+no im just really bad at typing <:omegabanana:1395762388426293400>
+true, ill try to message some of the tubers, let me know if you know any (like danergouslyfunny)
+Lirik my goat
+richardgaming forced valorant streamers to play megabonk
+thats why we have <@259811831017635840>
+i like the way you think Skeletor
+ill check it out later im cooking atm
+yeah you cooked
+(i wish)
+Surely when youre done megabonk has multiplayer
+Daamn prioritize school tho glgl
+I mean this might be legit tho ill have to check
+Trust no one
+Eh so far ive gotten 50 emails from people pretending to be youtubers abd asking for keys so they can review (sell the keys for profit)
+thats already a weapon :D
+d6 is a classic tho
+lol
+d20 would be kinda sick tho i agree
+but that would require a remodel 💀
+truueee
+here you go, this is dicehead skins for example
+you can scroll up a bit in <#1323666051866558565>  to see some
+recolors
+other than that theres no cosmetics tho
+most characters already have 5+ skins
+gg
+damn ive been demoted to unc
+sorry im a bit slow with the references
+oh
+hm true, we only have move speed sock
+we do already have a ninja but he's got a katana instead of throwing stars
+good luck 🫡
+ok i wont ask
+oh shit whats happening in the uk?
+it's $10 and there'll be a launch discount :))
+its only $200
+lol hes joking
+thats a great idea
+thanks for ruining the secret richardgaming
+well i guess its not so secret anymore
+it'kll be a secret achievement tho
+prevent fall damage by hugging the wall
+yeah he can already climb so that item is kinda lame
+maybe you unlock the richard character if you do it
+oh okay right
+what should the unlock be tho? surely an item that has something to do with fall damaage
+im actually making it best believe
+true, you're the 2nd person to complain about cl4nks bullet, but i simply did not have the budget so he will keep shooting bullets from his belly :D
+yeah sorry tahts my bad, i knew something was off when richardstare was not the first reaction
+and you were truly right about that perell, just look at Shadow Bear <3
+thanks perell
+damn
+🗿
+😎
+i have an extra 2 weeks to do it
+yeeh good call
+Nopeeee
+probably lmao
+Yeha idk theres so many new items and pasives i have no idea whats meta
+<:Megachad:1353679516957933618>
+But it doesnt crit, so cl4nk passive would be useless with poison
+Yeh
+Theres an item that scales armor and overheal witj number of poisoned enemies, so that could do well against final swarm
+Poison has been very buffed
+Actually maybe there is a very solid one
+Yeah but im not so sure about specifically final swarm, since poison takes time to build up damage
+cya
+it's a bit different than the demo yeah but there arent variations
+nah
+i was thinking of it yeah, but dont wanna nerf things too much either
+yeah at that point we might just give you the option at the start of a round to start with a 1.5x stat of your choice
+uuh i think it would be the same issue tbh, it's still just so good that youd have to reset for it to get a leaderboard run
+but maybe ill make a "classic" map for all the demo enjoyers lmao
+yeah would be same thing then ig
+something somethnig popular block game
+it makes runs kinda boring since it's all about resetting
+it's not currently used in the full game tho, im not sure how to add it without running into the same problem
+yeah the balance shrine is kinda cooked, didnt realize thats how people were going to use it but it makes sense
+so they reset until they get a high value
+the BA value there shows how many balance shrines on this seed
+cant remember what its called in the settings
+yeeh if you look in the bottom left of their screen they've turned on some debug
+they are reseting for balance shrines
+what kind of shrines?
+yoo 👋<:Aga:1345906998369189890>
+this changes everything
+wow thank you richardgaming
+richard about to hit his 3rd puberty to get an even deeper voice
+so i only update it once a thing is fully done, so thats why it looks completely wrong
+yeah
+thats fucking insane
+wait you were one of the first second generation employees?
+np
+its not in demo, onyl full game
+d
+oh my ba
+unity i think
+no problem <:OmegaAga:1400120744834502768>
+believe it or not i havent used any ai for the achievements (real and true)
+or maybe you misinterpreted but i wrote it as "im almost finished with all my achievement, just a few more to implement" <:Aga:1345906998369189890>
+how is that ai code
+yeah but wdym i said ive already made most of the achievements
+<:Omegaskull:1400118565205577850>
+ayo not a bad idea
+yeah i think i needed that cuz damn making all the achievements is taking much longer than i expected
+so i kinda need em
+nah they are used for unlocks
+that shit is ROUGH
+ooouuuffff
+implementing them, getting everything translated
+ive already made most of them but like
+lmfao <:Omegaskull:1400118565205577850>
+idk i have to finish these damn achievements first tho
+yeh i think imma make a better leaderboard with maps and possibly characters
+3
+<:Omegaskull:1400118565205577850>
+and now i have the problem of people liking the demo and being used to that gameplay so i cant slow things down too much either
+the demo is kinda fun on its own, it's a bit different tho since the gameplay is pretty accelerated
+idk
+aint got time for that now
+so id have to make a brand new demo
+but it would probably take quite a bit of effort updating the demo since its a very old and incompatible build
+im sorry mr skeletor
+Timeless
+sorry but as a wise man once said, nothing for you demo fuckers
+<:Omegacheese:1395705320562491453>
+<:omegachad:1395347109158453408>
+👋 <:Aga:1345906998369189890>
+Yeah kill the boss 💀
+Thats what i tried but you sont get enough xp to level up enough, so you just die
+Maybe Thorns Tome?
+So maybe that, but it might be doable if you find a good strat idk what that is tho
+Not sure, but there is a pacifist one where you have to win without directly damaging enemies (you dont have any weapons) and i spent hours trying to do it with no success
+Yoo
+Yeah sort of a mix, i enjoy both those games!
+Oh yeah im not worried about that achievement, thats like one of the easier ones 💀
+There are some diabolical achievements that i havent been able to complete yet, so without cheats id say its gonna be some days? But gamers will probably prove me wrong and do it in 20min
+:D
+but most of them are like super close :p
+i should but as ive mentioned before none of the bullet points are really done, so i cant update yet
+maybe, im not sure how they work 🤷‍♂️
+Like free weekends?
+i think thats how i did it
+well if you get quantity tome / cooldown tome with the aegis i guess
+hmm
+it's great for avoiding damage
+yeah if you get the aegis first
+ooh
+what was the unlock requirement again?
+not sure yet, ill figure it out once i finish everything. but probably a character or two, weapons and items
+🤝
+get some beefy rings and youve got some big damage
+thats a lot of health damn
+f
+yoo that's smart to decrease the sword size lol
+sir oooofie
+oooof
+and the bosses are constently throwing attacks
+once the swarms appear
+yeah
+surely there will be playtesting
+if we do some playtesting you can try then tho :))
+nice try bucko
+good luck
+😎
+it's your problem not mine
+man this is probably imposible but whatever
+sniper literally has to constantly aim away from enemies
+but i think athena is easier since you dont have to aim
+oh true sniper can do it too
+swarm fucked me
+yeah okay this is impossible
+i think this is the one
+okay i got jump height and an extra jump
+<:omegachad:1395347109158453408>
+alr lemme send you a key rq
+i fucked up twice already 💀
+no shot
+its really fucked
+and then dodge enemies for 10 minutes
+she spawns with aegis shield weapon
+you gotta play athena lmao
+its so fucking hard
+survive 10 minutes without dealing any damage
+making an evil achievement now
+yeeh gotta have a ton of achievements
+its a fuckton of work
+uuuh we'll see, im still working on making achievements and translating them all 💀
+hopefully megabonk doesnt completely overshadow it
+im more worries about dying light am i right
+nah jk
+guess we're delaying another 2 weeks
+oh shit
+lol yeah just chatting
+bro is grinding the megabonk god damn
+💀
+many more will come
+many have come before you
+uh oh
+no problem
+If that doesn't work then i don't know, sorry D:
+And I would also try reinstalling the game first
+I would try this
+what kind of broken?
+main problem is i dont have any way to know if it was actually a type or not, but remind me in a week and maybe he can get an unban if hes on his best behavior
+ai apology not accepted <:omegabanana:1395762388426293400>
+sus
+<:Omegaskull:1400118565205577850>
+i think he was the guy who said the n word
+hmm the guy that was banned yesterday?
+why are you asking lol
+thnx :)
+dont think you can see that
+maybe the leaf will finally go away
+nicee
+truly the megaest of bonks
+....all of it?
+can you find forgiveness in your heart perell
+the music guy is working on a phonk track for megachad so technically we will have megaphonk soon
+<:omegabanana:1395762388426293400>
+the role is locked on you
+doesnt look like i can change your color lol
+thank you richardgaming ill let you into the onlyfans shortly
+You got me
+Megabonk 2 is coming soon
+steam political sim fest or something
+it's not a steam next fest but a normal steam fest
+ill ask them
+sorry D:
+damn nice run
+at least i have your vote for indie of the year
+thanks you mr lynx
+i dont think we were geting indie game of the year either way <:omegachad:1395347109158453408>
+what the fuck...
+but technically i *am* a playtester
+*well in that particular case it was literally just me, but it made for a more interesting plot*
+👀
+sometimes
+yeah there will be so much gambling you dont even know
+that poor soul
+but steam only allows 100 achievements until the game gets popualr enough to have more
+around 100-200 on launch and then ill add more
+yeah thats the plan
+i hope no one does anything bad to your toaster
+mostly just hanging
+doing anything to toasters or...?
+i have a hunch
+🗿
+<:OmegaOmegachad:1400119344138031227>
+true
+so the actual progress in there is more like 80% probably
+so like desert map is pretty much done but i havent tested it properly yet
+uuh kind of but most of the things in there are like 90% done
+oh shit it's the og goat
+im actually going to <:omegabanana:1395762388426293400>
+and im about to fucking lose it
+for example i've spent the last 6 hours just making achievements for every single item, weapon, character, etc and translating them all
+i will but honestly right now it's a lot of boring work
+if i had a dollar every time you suggested this
+such a good idea
+you like
+🦶
+megabonk better now?
+sure
+shit
+well
+we are going to war
+redirect your hate towards silksong
+<:OmegaAga:1400120744834502768>
+way to punch a guy who is already down
+thats fucked up richard
+more bananas i guess
+oops
+alright a number 2 coming right up
+🥊
+alright anyone else want some
+?mute <@1135526173993078845> 2h "no cringe bigotry even as a joke it can still hurt people :)"
+?mute <@287262100580204545> 1d "no bigotry cringe please"
+cant wait for megabong release
+thats honestly fine, but silksong is gonna be a huuuge deal so thats like the only game that would delay launch lol
+but idk cant delay forever, it's gonna be 11 or 18
+but sep 18 week is releasing dying light
+yeh problem with the sep 11 week is there is a steam fest going on
+shouldve predicted silkson releasing
+my bad chat....
+yeah it'll be delayed either sep 11 or sep 18
+it truly is critical
+im cooked
+man
+true
+true
+ive heard its bad to release same day as a big release anyway
+yeeh it's just that chances of being shown on the steam frontpage decreases by a tooon if i release same day i think
+i think.... i might delay it one week
+thats the spirit
+damn
+it ltierally is the most wishlisted steam game
+why now lol
+thats so fucking unlucky mannnn
+yeah i think it can be pretty bad
+date might be locked in
+not sure if its too late tho
+i mean that might actually warrant a week delay tbh
+thats actually cooked
+fuck meeeee
+no way theyre releasing september 4th
+bro youre kidding right
+💀
+Damn
+rookie numbers you fools
+yep got it all under control yeppp
+the emails are not gonna write themselves
+you gotta up those numbers richard
+👋 <:Aga:1345906998369189890>
+Youre judt built different ig
+im no 🧢
+haha thats crazy right
+yeah that's the plan
+guess we're staying up late
+💀  so midnight on friday?
+time to go to australia i guess
+no way
+<@274159725967572992> 2 days...
+*technically it is*
+yeah if you spawn the boss too late he will cook you
+f
+what is it
+no can do <:OmegaAga:1400120744834502768>
+just eat the game, thats like 2 birds with one stone
+we do what we must to survive out there fellas
+when i was a young lad i might or might not have also been a pirate
+i dont care if you pirate it dw
+<:omegabanana:1395762388426293400>
+you just need higher level <:Aga:1345906998369189890>
+but if you delete the banana achievement from your progression file then it will spawn again
+nah but once you find it you can buy it from unlocks and get it as a weapon normally
+I can confirm chew777 is me
+Hes the music goat
+Damb imagine
+<:omegabanana:1395762388426293400>
+chadwell ate him
+wait real?
+it really is not <:OmegaOmegachad:1400119344138031227>
+well this is your warning anyway, if you keep being toxic you'll get a mute and then eventually ban
+*if 95% of the server has you blocked then the problem might be you mr googas*
+?warn <@287262100580204545> "you really need to stop being so toxic and negative to everything that is being said in the server, it's just creating a toxic environment and it's not really funny"
+*you don't*
+thank you 🤝
+yepyep <:Aga:1345906998369189890>
+yeah soemthing like that
+👋 <:Aga:1345906998369189890>
+🫡
+true but hes not double gaming like you
+what about him? about mega super fucking banning?
+<@1270017428994261053> bro is GAMING
+<:Omegacheese:1395705320562491453>
+<:Omegaskull:1400118565205577850>
+so true
+yeh <:Aga:1345906998369189890>
+<:omegabanana:1395762388426293400>
+but probably this yeah
+ive no idea, im not involved with the mods over there
+me too fr
+i have no idea
+Whoah now thats some crazy advice letsgo
+So yah we're really close to checking of a ton of things
+Art is basically done just not uploaded yet
+Music is done i just havent put it in game yet
+Desert is like finished i just havent tested it yet
+Yeah i jist havent finish anything on that list yet lol
+I think #1 would look better as my desktop background or on my wall or some stupid shit, but #2 catches my attention more
+Yeah same im probably way too biased towards the blue one
+🤝
+theres also this one which is a bit of a mix
+4..?
+hello
+gonna need to see that duck art
+Uuuuuh not sure maybe?
+Pay your respects everybody
+No way its john megabonk
+Demo is kinda scuffed, fixed in full game. Usually happens if some device or controller is plugged in. Or a driver in some cases
+thank you mr roger <3
+then open chest once you have a lot of luck so you only get legendaries (and rollerblades)
+uuh i think we all forgot tbh, but generally it's CL4nk with damage tome, luck tome and cursed tome, and aura and aegis
+thats the plan
+once i get a deadline i have to cook so hopefully my brain goes into overdrive
+i think i still have like 1 or 2 days to edit it but nah we locking in i gotta release this thing
+pretty good
+👋<:Aga:1345906998369189890>
+🗿
+well im pretty cooked soon anyway because the date will lock in and i literally cant delay it <:omegabanana:1395762388426293400>
+why would i update the demo in 2 weeks when the game is launchig in 3 <:Aga:1345906998369189890>
+*no*
+hmmm
+thanks pineapple
+only like 3 weeks left tho you can do this
+<:omegachad:1395347109158453408>
+mercy
+loool
+sounds like a based guy
+ill banish you
+you will not
+very hype
+what the fuck is this image loool
+you just stack that shit up
+yeah and against bosses
+*this is not propaganda*
+modly cheese is one of the top gray items trust
+but its been buffed a lot now tho
+it just does more damage the more stacks you get
+<:Omegaskull:1400118565205577850>
+uuuh not really
+im gonna play that on repeat for sure
+<:omegabanana:1395762388426293400>
+are you hyped taeko? isnt eden album in like a few days?
+what the fuck
+you dont get it roger
+there will be a cheese revolution
+moldy cheese is just misunderstood
+everyone hates it
+hello cat god
+ign leaderboad is fine, jsut discord is broken
+theres not really any reason to delete it from the progression file unless you are going for wr, because there is a "bug" where if you have 3 weapons and pick up the banana, you can get 4 weapons
+so thats how you get it after yuo find it
+because after you find it you can pick it as a weapon
+but you can open the progression file and delete the banana unlock there if you wanna find it again
+once a user
+no problem
+can only be found once
+it's always at a random position unless you already picked it up
+yeah
+just find it randomly on the map
+<:Omegacheese:1395705320562491453>
+Isnt he the guy that can eat people with his ult and get really strong or smth
+Nasus my beloved
+Truuueeeeee
+surely
+🙏
+ive optimized a few things so it might run better in full version
+oof
+Yeah just gotta make sure steam reviews it lol
+ill just launch and then post content updates
+fair enough lol, im pretty happy tho, cant keep delaying forever
+is bf6 releasing in september?
+dont worry im shipping it to them soon, surely they will verify it within 3 weeks time
+can you stfu now
+the desert boss has the same face as u fr
+wait now that i see ur pfp ur kinda in the game googas
+<:omegabanana:1395762388426293400>
+but i kinda forgot steam has to check my game so need to get a build up for them
+ive finished up the desert maps enemies and boss
+dont worry
+it feels like nothing but i will cook
+no xp tho 💀
+pretty decent
+hi
+<:omegabanana:1395762388426293400>
+Id feel truly blessed 🙏🏻
+It doesnt mattwr if anyone cheats in a singleplayer game but its a bit annoying to see on the leqderboards yk
+Sort of anticheat but only to hide leaderbpard scores
+Most cheatengine runs are caught and hidden from leaderboards 🗿
+It's legit, he even uploaded the run to youtube <:Aga:1345906998369189890>
+hello john megabonk
+i dont think you do, at least not right now lool
+christ
+are you in a city where theyre doin that?
+stay safe out there mr richard gaming
+it's the orange man
+you're cooked
+we need to smuggle richard to the eu
+gl o7
+taeko is in possession of all the nanas
+let him rest
+yore right
+<:omegabanana:1395762388426293400>
+<:OmegaOmegachad:1400119344138031227>
+👋<:Aga:1345906998369189890>
+hi.
+..
+is it gonna be all fleetwood mac?
+no clue
+and some stuff with the art and music but cant really show yet
+uuh yeah just working on desert map ig
+<:Omegacheese:1395705320562491453>
+Technically im a playtester right
+Nah dont think so
+Nah but it doesnt stack linearly so you cant get 100%
+Shit take
+I cant add runs to the leadervoard manually
+risk of rain 2 is a banger ofc
+....vampire survivors?
+Lol grease spell is great
+mcfly would maybe get me in some trouble so it's mczoom lmao
+<:Omegaskull:1400118565205577850>
+he really does
+yeah
+ig i have a skill issue
+hes is telling the true
+ -- grot ai
+chatpgt uses me
+no problem richard
+yeah
+Hello the nyxian... Grub
+Just a few minutes
+youre doing like 2 a day at this point
+... sucks?
+Wait Mr Megabonk?? Im a big fan
+yo
+Mega W
+Holy shit
+now that is a great idea
+we're not fixing that it's not a bug it's a feature
+megabonk
+:)))
+surely not
+<:omegabanana:1395762388426293400>
+*it's releasing early september tho if all goes according to plan so surely we'll see you next month*
+you too
+thank you
+Welcome back and cya
+tho i dont think you can post links anywhere lol
+<:Aga:1345906998369189890>
+ill allow it
+i think it's congratulations - congratz - gratz - gz
+im not sure, ive just seen people use it 🤷‍♂️
+gz <:Aga:1345906998369189890>
+👋 <:Aga:1345906998369189890>
+Tony McFly
+<:omegabanana:1395762388426293400>
+offence taken
+im not good with naming okay it's like the #1 bottleneck with megabonk
+whats a more fitting name? Richard?
+you got a problem with jimmy
+It was just a short, yk for youtube shorts
+This is true
+what made you think that?
+hes my goat
+im an oofie enjoyer
+true
+<:omegabanana:1395762388426293400>
+Yeah the characters was the most time consuming part
+yeah idk he might just be too fast
+youre the first person to ask for less speed
+too fast? bone too shitty?
+how come?
+he doesnt have a passive yet but attraction is not a bad idea actually
+Just the character
+it goes hard
+haha thats crazy - anything else i can help you with today?
+...
+some are unique
+true
+oh shit well if you can hold out for a few more weeks and then explode you should be good
+ig im tripping
+damn istg you said some shit like that
+you literally say it all the time
+add googas weapon yourself
+didnt you say youre a modding guy?
+whats even that? does it shoot out googas dogs?
+but it's pretty boring lol
+i guess you'll have to see when the game releases :)
+yeah!
+luck is already probably the best stat in the game
+i was thinking of doing that but then i realized it would be way too powerful
+yeah ^
+it's much simpler and boring unfortunately
+actually no
+got richardstare in dms 30min after i was in the zone
+you missed your window
+simple tricks like that wont work on my richardgaming #30
+im such an attentive dev
+he got his audio update <#1323666051866558565>
+truly blessed 🙏
+should still get some sleep tho <:omegachad:1395347109158453408>
+okok
+Go get some sleep i dont want you to die because of megabonk
+<:Omegaskull:1400118565205577850>
+almost 50-50 split thats optimal
+cant remember the exact ratio but its like
+You might be cooked
+<:OmegaAga:1400120744834502768>
+<:OmegaOmegachad:1400119344138031227>
+send richardstare
+every emote on this server will just be omegachad eating the emoji
+<:Omegaskull:1400118565205577850>
+💀
+no shot
+vedour
+vetour
+that is indeed live thank you vb
+do i need programming socks...
+there we go 23% !!!!!
+im literally working on it as we speak (live)
+you win this time richardgaming
+damn gg
+why trent
+<:Omegacheese:1395705320562491453>
+thanks taeko great gameplay tips as always
+<:Megachad:1353679516957933618>
+get a lot of luck before you start buying or opening chests
+uuuh
+🦉
+yeah if you get an insane amount of damage you might be able to keep up
+id say you need at least 2x and that is barely enough
+unlikely, but it might be possible
+most active / chill people in the server
+just a few of us
+though i dont think risks would be too bad, i already post a lot of progress in updates
+and to minimize risk of people leaking stuff
+Nah i dont think there will be much playtest until the game is almost ready, so it can all be tested
+i will procastinate it
+alr should be chillin then
+i think i had to get it approved for the demo to be approved
+or maybe i have already
+should probably get that approved
+oh shit true
+shirley there wont be any delays
+only if youre on your best behavior
+is this where you say you are an editor for hire?
+but editing is so time consuming and i wanna mainly focus on the game yk
+one more before launch i think
+yeah
+👋 <:Aga:1345906998369189890>
+<:Aga:1345906998369189890>
+ill make them S tier to piss you off
+yeah theres a few
+havent done enough testing to confirm this yet <:omegachad:1395347109158453408>
+<:Megachad:1353679516957933618>
+Hell yeah
+D:
+have fun <:omegachad:1395347109158453408>
+ty
+<:Fox:1353679514068320338>
+nicee thanks :D
+👋 <:Aga:1345906998369189890>
+for waht its worth i thought it was a funny joke richardgaming
+stealth<:omegachad:1395347109158453408>scope
+your doctor was probably just jealous
+thats crazy
+dammnnnn
+<@1021741583479087144> but dm me a screenshot of this when the game is out and ill send you a free key <:Aga:1345906998369189890>
+sounds like a myth
+220k without aegis is kinda crazy tho
+damn thats my bad 💀
+looool
+oh thats fucked
+Damn what country / currency?
+Lemonade is a nice nickname
+Yeah lightning isnt too bad especially if you get a lightning orb
+Uh oh
+Ooh? What exactly do you mean?
+<:omegachad:1395347109158453408>
+Blame steam 🥀
+Letsgoooo
+fair enough
+if only the writing was as good as the visuals
+great show
+letsgo big level 2
+No bonk tag = 🥀
+upgrades a random stat when he levels up
+oh i ddint see it ig mb
+Maybe that's shady guys passive
+thats not a bad passive idea
+^us
+yeah i was expecting a war
+just workin on some weapons atm, not sure about the 20th character yet
+*after launch*
+ill look into it
+to pull the actual values and stuff
+oh if i can autogenerate some basic pages that people can flesh out that would be cool
+are we nuking those places...?
+please do, feel free to nuke any of his friends
+
